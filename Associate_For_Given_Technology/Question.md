@@ -14,30 +14,31 @@ Before calling "associatesForGivenTechnology" method in the main method, read va
 
 ## Input:-
 
-101
-Alex
-Java
-15
-102
-Albert
-Unix
-20
-103
-Alferd
-Testing
-13
-104
-Alfa
-Java
-15
-105
-Almas
-Java
-29
-Java
+     101
+     Alex
+     Java
+     15
+     102
+     Albert
+     Unix
+     20
+     103
+     Alferd
+     Testing
+     13
+     104
+     Alfa
+     Java
+     15
+     105
+     Almas
+     Java
+     29
+     Java
+
 
 ## Output:-
 
-101
-104
+     101
+     104
 
