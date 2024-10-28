@@ -1,12 +1,12 @@
 ## problem statement
 Create class Associate with below attributes:
 
-id - int 
-name - String 
-technology - String 
-experienceInYears - int
+     id - int 
+     name - String 
+     technology - String 
+     experienceInYears - int
 
-Write necessary getters and setters.
+Write necessary getters and setters and constructor.
 
 Create class Solution and implement static method "associatesForGivenTechnology" in the Solution class. This method will take array of Associate objects and a searchTechnology String as parameters. And will return another array of Associate objects where the searchTechnology String matches with the original array of Associate object's technology attribute (case insensitive search) and experienceInYears attribute should be multiples of 5.
 
