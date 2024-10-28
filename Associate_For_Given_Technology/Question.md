@@ -1,3 +1,4 @@
+## problem statement
 Create class Associate with below attributes:
 
 id - int 
@@ -11,7 +12,7 @@ Create class Solution and implement static method "associatesForGivenTechnology"
 
 Before calling "associatesForGivenTechnology" method in the main method, read values for five associate objects referring the attributes in above sequence along with a String searchTechnology. Then call the "associatesForGivenTechnology" method and write the logic to print the id's in the main method.
 
-Input:-
+## Input:-
 
 101
 Alex
@@ -35,7 +36,7 @@ Java
 29
 Java
 
-Output:-
+## Output:-
 
 101
 104
