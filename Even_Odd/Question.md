@@ -6,10 +6,18 @@ For example, if the value is 123456 and it contains 3 odd digits such as 1,3,5. 
 
 The output should be in the format of sample output.
 
-##Input:-
+##Input 1:-
 
         123456
 
 ##Output 1:
 
         True
+
+##Input 2:-
+
+        123
+
+##Output 2:-
+
+        False
