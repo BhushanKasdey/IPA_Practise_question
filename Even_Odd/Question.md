@@ -7,7 +7,9 @@ For example, if the value is 123456 and it contains 3 odd digits such as 1,3,5. 
 The output should be in the format of sample output.
 
 ##Input:-
+
         123456
 
 ##Output 1:
+
         True
